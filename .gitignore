@@ -1,0 +1,17 @@
+# Python
+pycache/
+
+# Virtual environments
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+
+# Local environment variables
+.env
+
+# Data files
+data/*.csv
