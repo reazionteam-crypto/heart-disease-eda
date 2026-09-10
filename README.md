@@ -176,7 +176,7 @@ heart-disease-eda/
 │   └── ...
 │
 ├── reports/
-│   └── heart_disease_eda_report.docx
+│   └── heart_disease_eda_report.pdf
 │
 ├── README.md
 ├── requirements.txt
@@ -274,7 +274,7 @@ Possible next steps for this project include:
 A more detailed analysis of the project is available in:
 
 ```text
-reports/heart_disease_eda_report.docx
+reports/heart_disease_eda_report.pdf
 ```
 
 The report (in Persian) includes the data understanding process, exploratory analysis, visualizations, findings, limitations, and conclusion.
