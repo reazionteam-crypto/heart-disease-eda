@@ -307,4 +307,3 @@ This project is mainly an EDA and can be used as a starting point for more detai
 ---
 
 ### [If you want, you can follow us on Telegram :)](https://t.me/reazion)
-Build. Learn. Reazion.
